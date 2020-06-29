@@ -1,0 +1,15 @@
+.header-afbeelding {
+  width: 45%;
+  float: right;
+}
+
+.header-text {
+  width: calc(55% - 20px);
+  margin-right: 20px;
+  float: left;
+}
+
+.header-afbeelding img {
+  display: block;
+  border-radius: 0.5rem;
+}
